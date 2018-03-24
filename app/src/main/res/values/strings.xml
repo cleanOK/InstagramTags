@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstagramTags</string>
+    <string name="tag_view_hint">Enter tag</string>
+    <string name="shared_pref_file">com.dmytrod.instagramtags.sharedpref</string>
+    <string name="scheme">https</string>
+    <string name="unknown_error_message">Something went wrong</string>
+    <string name="login">Log in</string>
+    <string name="unauthorized_error_message">Logged out</string>
+</resources>
